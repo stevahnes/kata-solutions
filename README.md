@@ -6,4 +6,4 @@
 | ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
 | [**Codewars**](/codewars)      | [![**stevahnes**](https://www.codewars.com/users/stevahnes/badges/micro?sanitize=true)](https://www.codewars.com/users/stevahnes) |
 | [**LeetCode**](/leetcode)      | [**stevahnes**](https://leetcode.com/stevahnes/)                                                                                  |
-| [**JsAcademy**](/jsacademy.io) |                                                                                                                                   |
+| [**JsAcademy**](/jsacademy.io) | N.A.                                                                                                                              |
